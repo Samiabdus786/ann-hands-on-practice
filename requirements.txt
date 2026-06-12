@@ -1,9 +1,9 @@
 tensorflow==2.16.1
 keras==3.3.3
-numpy
-pandas
-scikit-learn
-transformers
+scikit-learn==1.5.1
+numpy==1.26.4
+pandas==2.2.2
+transformers==4.52.4
 torch
 sentencepiece
 tokenizers
