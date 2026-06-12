@@ -1,8 +1,8 @@
-tensorflow
-keras
-scikit-learn
+tensorflow==2.16.1
+keras==3.3.3
 numpy
 pandas
+scikit-learn
 transformers
 torch
 sentencepiece
